@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Há mais de um ano estudo Front-end: html, CSS, JavaScript e Reactjs.
+Busco colocar em prática meus conhecimentos adquiridos, me dedico a registrar minha trajetória aqui no GitHub.
+Ainda não tenho grandes projetos mas estou construindo meu caminho, já consigo olhar e ver de perto quanto estou evoluindo e ir cada vez mais em frente.
+Sempre trabalhei como usuária de sistemas, paralelo com atendimento pessoal e telefônico.
+Estou no terceiro semestre de ADS, na UNIP
+Minha transição de carreira é motivada pela vontade de ter um trabalho com histórico registrado e isso acrescentaria as minhas competências adquiridas durante minha carreira profissional.
+
+
 <!--
 **BarbaraViana/BarbaraViana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
