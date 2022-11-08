@@ -1,6 +1,6 @@
 ## Oie sou a Barbara Viana!
 Tenho mais de 15 anos trabalhando como usuária de sistemas de informação, em paralelo com atendimento pessoal e telefônico.<br>
-Há mais de um ano estudo Front-end: HTML, CSS, JavaScript e Angular.<br>
+Há mais de um ano estudo Front-end: HTML, CSS, JavaScript, Python, JAVA e Angular.<br>
 Busco colocar em prática meus conhecimentos adquiridos, me dedico a registrar minha trajetória aqui no GitHub.<br>
 Ainda não tenho grandes projetos mas estou construindo meu caminho, já consigo olhar e ver de perto quanto estou evoluindo e ir cada vez mais em frente.<br>
 Estou no terceiro semestre de Analise e Desenvolvimento de Sistemas, na UNINTER.<br>
@@ -12,11 +12,15 @@ Minha transição de carreira é motivada pela vontade de ter um trabalho com hi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraViana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Barbara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Barbara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Barbara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Barbara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Barbara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Barbara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Barbara-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Barbara-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  
+  
+  
   
   </div>
   
