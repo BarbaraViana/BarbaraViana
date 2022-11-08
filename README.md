@@ -1,10 +1,11 @@
 ## Oie sou a Barbara Viana!
-Tenho mais de 15 anos trabalhando como usuária de sistemas de informação, em paralelo com atendimento pessoal e telefônico.<br>
 Há mais de um ano estudo Front-end: HTML, CSS, JavaScript, Python, JAVA e Angular.<br>
+Estou em transição de carreira, tenho mais de 15 anos trabalhando como usuária de sistemas de informação, em paralelo com atendimento pessoal e telefônico.<br>
 Busco colocar em prática meus conhecimentos adquiridos, me dedico a registrar minha trajetória aqui no GitHub.<br>
 Ainda não tenho grandes projetos mas estou construindo meu caminho, já consigo olhar e ver de perto quanto estou evoluindo e ir cada vez mais em frente.<br>
-Estou no terceiro semestre de Analise e Desenvolvimento de Sistemas, na UNINTER.<br>
-Minha transição de carreira é motivada pela vontade de ter um trabalho com histórico registrado e isso acrescentaria as minhas competências adquiridas durante minha carreira profissional.
+atualmente estou cursando o terceiro semestre de Analise e Desenvolvimento de Sistemas, na UNINTER, com previsão de concluir em 12/2023.<br>
+Minha transição de carreira é motivada pela vontade de ter um trabalho com um histórico registrado e isso acrescentaria as minhas competências adquiridas durante minha carreira profissional.<br>
+Gosto de trabalhar em equipe, tenho uma perspectiva otimista da vida!
 
 <div align="center">
   <a href="https://github.com/BarbaraViana">
