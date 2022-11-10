@@ -1,5 +1,5 @@
 ## Oie sou a Barbara Viana!
-Há mais de um ano estudo Front-end: HTML, CSS, JavaScript, Python, JAVA e Angular.<br>
+Há mais de um ano estudo Front-end: HTML, CSS, JavaScript, Python e Angular.<br>
 Estou em transição de carreira, tenho mais de 15 anos trabalhando como usuária de sistemas de informação, em paralelo com atendimento pessoal e telefônico.<br>
 Busco colocar em prática meus conhecimentos adquiridos, me dedico a registrar minha trajetória aqui no GitHub.<br>
 Ainda não tenho grandes projetos mas estou construindo meu caminho, já consigo olhar e ver de perto quanto estou evoluindo e ir cada vez mais em frente.<br>
